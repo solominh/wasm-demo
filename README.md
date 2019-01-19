@@ -10,6 +10,8 @@ I should mention that because compilation of the wasm module is done asynchronou
 
 ## Usage
 * `npm install -g serve`
+* Run command `serve` to serve `index.html`
+  * Open `index.html` without `serve` will not work
 * Open `index.html` in Browser
 * Open `console.log`
 * Use `square` function: typing `square(10)`

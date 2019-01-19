@@ -12,6 +12,6 @@ I should mention that because compilation of the wasm module is done asynchronou
 * `npm install -g serve`
 * Run command `serve` to serve `index.html`
   * Open `index.html` without `serve` will not work
-* Open `index.html` in Browser
+* Go to `http://localhost:5000` (`index.html`)
 * Open `console.log`
 * Use `square` function: typing `square(10)`

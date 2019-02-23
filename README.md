@@ -6,7 +6,7 @@ I should mention that because compilation of the wasm module is done asynchronou
 
 
 ## Tutorial
-`https://medium.freecodecamp.org/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4`
+(https://medium.freecodecamp.org/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4)
 
 ## Usage
 * `npm install -g serve`
